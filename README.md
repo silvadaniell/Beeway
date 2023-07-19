@@ -3,10 +3,10 @@
 O Beeway é um projeto criado por cinco alunos do 4º período do curso de Ciência da Computação da Universidade Federal de Alagoas. O projeto faz parte da disciplina de Programação 3, ministrada pelo professor Ranilson Paiva, e tem como objetivo facilitar a divulgação de eventos dentro da instituição de ensino, usando funcionalidades como adição, edição, exclusão de eventos, compra de ingressos para os eventos e gerenciamento de presença, etc.
 
 Alunos:
-- Daniel Silva,
-- Wallace Lins,
-- Itallo Ramon,
-- Renato Santos.
+- Daniel Silva
+- Wallace Lins
+- Itallo Ramon
+- Renato Santos
 
 
 ## Como rodar
